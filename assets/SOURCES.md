@@ -9,3 +9,6 @@ La grafica del profilo usa i loghi esistenti, senza ridisegni o ricolorazioni.
 - Mouse Macro: [icon.png](https://github.com/realfulvio/mouse-macro-stocazz-superpower/blob/main/assets/icon.png).
 
 Le copie originali sono in `source/`. I file PNG sono renderizzati dagli SVG compositi tramite `python build_assets.py` (richiede `rsvg-convert`). I diritti e le licenze dei loghi restano quelli dei rispettivi progetti. Nessun avatar è incluso o modificato da questo repository.
+
+- Assistenza Portale: [logo-servizio-bianco.svg](https://github.com/realfulvio/assistenza-portale/blob/main/public/img/logo-servizio-bianco.svg).
+- Smart Working Istituzionale: [rendiconto.ico](https://github.com/realfulvio/smart-working-istituzionale/blob/main/applicazione/assets/icone/rendiconto.ico), convertita in PNG per la scheda senza ridisegno.
