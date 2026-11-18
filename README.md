@@ -10,7 +10,7 @@ Strumenti pratici, automazioni e qualche idea quasi sensata.
 | [![TracciaDoc — Ricerca documenti e OCR locale.](assets/tracciadoc.png)](https://github.com/realfulvio/tracciadoc) | [![Mouse Macro — Registra e ripeti le azioni del mouse.](assets/mouse-macro.png)](https://github.com/realfulvio/mouse-macro-stocazz-superpower) |
 | [![Assistenza Portale — Richieste guidate e assistenza GLPI.](assets/assistenza-portale.png)](https://github.com/realfulvio/assistenza-portale) | [![Smart Working Istituzionale — Resoconti del lavoro agile per enti.](assets/smart-working.png)](https://github.com/realfulvio/smart-working-istituzionale) |
 
-[Prova TRACE//PUNK](https://tracepunk.realhcok.workers.dev/) · [Tutti i repository](https://github.com/realfulvio?tab=repositories)
+[Prova TRACE//PUNK](https://tracepunk.hcok-apps.workers.dev/) · [Tutti i repository](https://github.com/realfulvio?tab=repositories)
 
 ---
 
